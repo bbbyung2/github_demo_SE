@@ -1,1 +1,3 @@
-# github_demo_SW
+# github_demo_SE
+
+깃허브 수업
